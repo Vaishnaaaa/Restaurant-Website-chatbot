@@ -5,9 +5,7 @@ Restaurant Chatbot - Delicious Den
 
 This repository contains the code for a Restaurant Chatbot built for Delicious Den. The chatbot provides an interactive interface for customers to explore the restaurant's menu, discover categories like drinks, snacks, and main courses, and learn more details about each dish.
 
-Demo Link:
-
-Try out the chatbot here: Delicious Den Chatbot Demo
+Demo Link: https://cloud-object-storage-cos-static-web-hosting-prb.s3.jp-tok.cloud-object-storage.appdomain.cloud/Chat-Bot%20Resources/Chat-Bot%20Resources/index.html
 
 Key Features:
 
